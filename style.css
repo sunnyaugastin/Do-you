@@ -28,14 +28,14 @@ body {
     flex-direction: column;
 }
 i {
-    font-size: 7.5em;
+    font-size: 6em;
     color: #000000;
     border: 5px solid transparent;
     outline: 3px solid #000000;
     border-radius: 50%;
 }
 h2 {
-    font-size: 1.5em;
+    font-size: 1em;
     color: #000000;
     margin: 15px 0;
 }
